@@ -5,3 +5,5 @@ NPM : 2306211622
 Kelas : PBP D
 
 Hobi : Menabung
+
+Jurusan : Ilmu Komputer
